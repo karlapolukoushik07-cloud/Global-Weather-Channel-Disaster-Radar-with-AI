@@ -1,0 +1,10 @@
+{
+  "name": "Global Weather Channel",
+  "description": "Professional real-time global weather application with severe alerts, India cyclone & heavy monsoon early threat detection up to 1-2 weeks out, seasonal heat winds (Loo) & cold waves, 16-day extended forecasts, and interactive live radar.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

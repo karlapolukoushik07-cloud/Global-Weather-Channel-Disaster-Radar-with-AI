@@ -1,4 +1,5 @@
-# 🌦️Global Weather & Early Disaster Warning System -global-weatherchannelai-data-app.netlify.app
+# 🌦️Global Weather & Early Disaster Warning System link-global-weatherchannelai-data-app.netlify.app
+offc link- https://ai.studio/apps/5e912f0c-8f9b-40b9-911e-51d33dee9351
 
 
 A comprehensive, real-time meteorological platform built with **React**, **TypeScript**, and **Tailwind CSS**. Designed for both daily weather tracking and critical disaster preparedness, the application combines high-resolution weather models with early threat detection and localized emergency assistance.
